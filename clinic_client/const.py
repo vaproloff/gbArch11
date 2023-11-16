@@ -1,0 +1,5 @@
+API_ROOT_URL = 'http://127.0.0.1:8000/'
+CLIENTS_GET_URL = 'clients'
+CLIENTS_ADD_URL = 'clients'
+CLIENTS_UPDATE_URL = 'clients'
+CLIENTS_DELETE_URL = 'clients'
